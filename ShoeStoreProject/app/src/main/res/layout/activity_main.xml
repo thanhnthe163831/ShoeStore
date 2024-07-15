@@ -37,6 +37,7 @@
             android:inputType="textPersonName"
             android:height="48dp"
             android:layout_marginTop="20dp"
+            android:textColor="#000000"
             />
 
         <EditText
@@ -48,6 +49,7 @@
             android:inputType="textPassword"
             android:height="48dp"
             android:layout_marginTop="20dp"
+            android:textColor="#000000"
             />
         <CheckBox
             android:id="@+id/chkRemember"
